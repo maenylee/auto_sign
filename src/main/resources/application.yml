@@ -1,0 +1,5 @@
+sign:
+  sign-config:
+    - sign-url: https://api.juejin.cn/growth_api/v1/check_in
+      session-id: d9a74afd23691f5b2fe1343321641390
+      website-type: jj
